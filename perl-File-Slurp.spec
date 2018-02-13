@@ -4,7 +4,7 @@
 #
 Name     : perl-File-Slurp
 Version  : 9999.19
-Release  : 1
+Release  : 2
 URL      : http://search.cpan.org/CPAN/authors/id/U/UR/URI/File-Slurp-9999.19.tar.gz
 Source0  : http://search.cpan.org/CPAN/authors/id/U/UR/URI/File-Slurp-9999.19.tar.gz
 Summary  : Simple and Efficient Reading/Writing/Modifying of Complete Files
