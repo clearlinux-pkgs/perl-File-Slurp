@@ -1,5 +1,5 @@
 PKG_NAME := perl-File-Slurp
-URL = http://search.cpan.org/CPAN/authors/id/U/UR/URI/File-Slurp-9999.19.tar.gz
-
+URL = https://cpan.metacpan.org/authors/id/C/CA/CAPOEIRAB/File-Slurp-9999.21.tar.gz
+ARCHIVES = 
 
 include ../common/Makefile.common
