@@ -4,7 +4,7 @@
 #
 Name     : perl-File-Slurp
 Version  : 9999.25
-Release  : 10
+Release  : 11
 URL      : https://cpan.metacpan.org/authors/id/C/CA/CAPOEIRAB/File-Slurp-9999.25.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/C/CA/CAPOEIRAB/File-Slurp-9999.25.tar.gz
 Summary  : 'Simple and Efficient Reading/Writing/Modifying of Complete Files'
