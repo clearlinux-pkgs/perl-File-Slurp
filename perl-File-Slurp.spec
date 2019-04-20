@@ -4,7 +4,7 @@
 #
 Name     : perl-File-Slurp
 Version  : 9999.27
-Release  : 19
+Release  : 20
 URL      : https://cpan.metacpan.org/authors/id/C/CA/CAPOEIRAB/File-Slurp-9999.27.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/C/CA/CAPOEIRAB/File-Slurp-9999.27.tar.gz
 Summary  : Read/write/append files quickly
