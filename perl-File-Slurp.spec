@@ -4,10 +4,10 @@
 #
 Name     : perl-File-Slurp
 Version  : 9999.30
-Release  : 24
+Release  : 25
 URL      : https://cpan.metacpan.org/authors/id/C/CA/CAPOEIRAB/File-Slurp-9999.30.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/C/CA/CAPOEIRAB/File-Slurp-9999.30.tar.gz
-Summary  : Read/write/append files quickly
+Summary  : 'Simple and Efficient Reading/Writing/Modifying of Complete Files'
 Group    : Development/Tools
 License  : Artistic-1.0-Perl
 Requires: perl-File-Slurp-perl = %{version}-%{release}
@@ -21,7 +21,6 @@ File::Slurp - Simple and Efficient Reading/Writing/Modifying of Complete Files
 Summary: dev components for the perl-File-Slurp package.
 Group: Development
 Provides: perl-File-Slurp-devel = %{version}-%{release}
-Requires: perl-File-Slurp = %{version}-%{release}
 Requires: perl-File-Slurp = %{version}-%{release}
 
 %description dev
@@ -82,4 +81,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.1/File/Slurp.pm
+/usr/lib/perl5/vendor_perl/5.30.2/File/Slurp.pm
