@@ -4,7 +4,7 @@
 #
 Name     : perl-File-Slurp
 Version  : 9999.32
-Release  : 35
+Release  : 36
 URL      : https://cpan.metacpan.org/authors/id/C/CA/CAPOEIRAB/File-Slurp-9999.32.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/C/CA/CAPOEIRAB/File-Slurp-9999.32.tar.gz
 Summary  : 'Simple and Efficient Reading/Writing/Modifying of Complete Files'
@@ -81,4 +81,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.34.0/File/Slurp.pm
+/usr/lib/perl5/*
